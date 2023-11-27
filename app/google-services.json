@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "55769302164",
+    "project_id": "novita-ebbe4",
+    "storage_bucket": "novita-ebbe4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55769302164:android:b637a883ee8600e7c46081",
+        "android_client_info": {
+          "package_name": "com.example.myloginnova"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtOjofgXLFciXd5EPGWx4ks-tbAKf9Z0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
